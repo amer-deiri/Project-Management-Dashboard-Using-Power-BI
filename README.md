@@ -17,7 +17,7 @@ The goal is to provide insights for better resource allocation, risk management,
 
 ### Tools Used
 
--- **Power BI** : For data import, transformation, modeling, visualization, and dashboard creation (DAX for KPIs, slicers for interactivity).
+- **Power BI** : For data import, transformation, modeling, visualization, and dashboard creation (DAX for KPIs, slicers for interactivity).
 - **Excel** : Initial data exploration and validation.
 - **Research Tools** : Web searches on project management (e.g., PMBOK principles) to contextualize phases, KPIs, and best practices.
 
@@ -26,7 +26,7 @@ The goal is to provide insights for better resource allocation, risk management,
 
 ## Key Performance Indicators (KPIs)
 
-- Total Projects: 99.
+- Total Projects: 99 (sample).
 - Total Project Cost: $411.50M.
 - Total Project Benefit: $873.99M (ROI: ~112% net gain).
 - Average Completion %: 84%.
