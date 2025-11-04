@@ -7,7 +7,6 @@ __Project Management Performance Analysis__
 This project analyzes a dataset of 99 projects from 2021 to 2025 to evaluate performance in terms of costs, benefits, completion rates, and distributions by type, region, phase, and year. 
 The goal is to provide insights for better resource allocation, risk management, and decision-making in project management. A Power BI dashboard was built to visualize KPIs, trends, and summaries, addressing key business questions derived from project management best practices (e.g., ROI, variance, efficiency).
 
-[Insert Project Screenshot Here: Full Power BI Dashboard View]
 
 ### Dataset Used
 
@@ -75,7 +74,7 @@ The goal is to provide insights for better resource allocation, risk management,
 - Interactive single-page dashboard with slicers (Project Name, Type, Region).
 - Visuals: KPI cards (by type), pie charts (benefit/cost by region), bar chart (completion % by phase), table (project summary), clustered bar (cost/benefit by year).
   
-[Insert Dashboard Screenshot Here: Example Dashboard Layout from Provided Image]
+![Full Power BI Dashboard View]( https://github.com/amer-deiri/Project-Management-Dashboard-Using-Power-BI/blob/main/Dashboard.png)
 
 
 ### Data Analysis
