@@ -34,16 +34,21 @@ The goal is to provide insights for better resource allocation, risk management,
 - Cost/Benefit by Type: Cost Reduction ($195M), Income Generation ($238M), Process Improvement ($222M), Working Capital ($219M).
 - Cost/Benefit by Region: West (34.4%, $301M), East (24%), South (21%), North (20%).
 - Completion by Phase: Phases 4 & 5 (~20% each), Phase 1 lowest (12%).
-- Yearly Trends: Benefits peak in 2022 (~$0.24B), decline to 2025 (~$0.07B); similar for costs.
+- Yearly Trends: Benefits peak in 2022 (~$0.24B) , decline to 2025 (~ $0.07B) ; similar for costs.
 - Status Breakdown: In-Progress (50%), Completed (30%), Cancelled (15%), On-Hold (5%).
 
 ## Business Questions & Answers
 
 1- What is the distribution of costs/benefits by project type? Income Generation leads benefits ($238M), but Cost Reduction has highest ROI (low cost, high savings).
+
 2- How do regions compare in performance? West dominates (34% benefit, 34% cost); East/South lag, suggesting resource reallocation.
+
 3- What are completion trends by phase/year? Phases 4/5 at 20% each; benefits peak 2021–2023, decline in 2024–2025 due to in-progress projects.
+
 4- Which departments/managers perform best? Sales & Marketing highest benefits; Managers like Nyasia Hunter oversee high-value projects.
+
 5- Are there delays or cancellations? 20% cancelled/on-hold; average duration ~90 days, with high-complexity projects more prone to delays.
+
 
 ### Transformation / Preparation / Data Cleaning Process
 
