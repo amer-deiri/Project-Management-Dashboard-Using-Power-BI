@@ -34,7 +34,7 @@ The goal is to provide insights for better resource allocation, risk management,
 - Cost/Benefit by Type: Cost Reduction ($195M), Income Generation ($238M), Process Improvement ($222M), Working Capital ($219M).
 - Cost/Benefit by Region: West (34.4%, $301M), East (24%), South (21%), North (20%).
 - Completion by Phase: Phases 4 & 5 (~20% each), Phase 1 lowest (12%).
-- Yearly Trends: Benefits peak in 2022 (~$0.24B) , decline to 2025 (~ $0.07B) ; similar for costs.
+- Yearly Trends: Benefits peak in 2022 (~ $0.24B) , decline to 2025 (~ $0.07B) ; similar for costs.
 - Status Breakdown: In-Progress (50%), Completed (30%), Cancelled (15%), On-Hold (5%).
 
 ## Business Questions & Answers
